@@ -19,7 +19,7 @@
   "dependencies": {
     "cannon": "^0.6.2",
     "dat.gui": "^0.7.6",
-    "three": "^0.104.0",
+    "three": "^0.125.0",
     "three-orbitcontrols": "^2.102.1"
   },
   "keywords": [],
